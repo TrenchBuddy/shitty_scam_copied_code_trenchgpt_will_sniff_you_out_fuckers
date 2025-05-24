@@ -1,0 +1,2 @@
+# shitty_scam_copied_code_trenchgpt_will_sniff_you_out_fuckers
+test copied code for TrenchGPT fake github detection
